@@ -1,0 +1,18 @@
+Name: Osamah ALQahtaini
+
+The file contains
+	1-client.c
+	2-client.h
+	3-Makefile
+	4-server.c
+	5-server.h
+	6-tic-tac-toe.c
+	7-tic-tac-toe.h
+	8-README
+	
+How to run the program
+	run: 
+		1- make clean
+		2- make
+		3- ./server &
+		4- ./client
